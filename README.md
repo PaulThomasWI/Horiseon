@@ -11,7 +11,7 @@ A website that offers SEO and other online marketing services including social.
 https://paulthomaswi.github.io/horiseon
 
 ## Github Repo
-http://github.com/paulthomaswi/horiseon
+http://github.com/paulthomaswi/Horiseon
 
 ## Website Screenshot
 (https://user-images.githubusercontent.com/87770976/128617300-c9a2c489-648a-4780-ac0c-1578d8aee113.png)
